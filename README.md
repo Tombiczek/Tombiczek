@@ -31,8 +31,8 @@ I'm a Telecommunications student at Warsaw University of Technology, specializin
 I am continuously improving my skills in mobile app development, particularly with Swift, and have recently launched my project on the App Store.
 
 ## 💼 Some of my projects:
-- **[Count Days / Flutter](https://github.com/Tombiczek/Count-Days-Flutter)**: A Flutter app for tracking days to specific dates, showcasing adaptability and initiative.
 - **[Count Days / Swift](https://apps.apple.com/pl/app/count-days-simple/id6479526942)**: The second version of the Count Days app, now available on the App Store, fully developed in Swift.
+- **[Count Days / Flutter](https://github.com/Tombiczek/Count-Days-Flutter)**: A Flutter app for tracking days to specific dates, showcasing adaptability and initiative.
 - **[Football Club Manager / Spring Java](https://github.com/Tombiczek/Football-Club-Manager-Spring-Java)**: A basic application integrating a pre-existing database, demonstrating skills in both front-end and back-end development.
 - **[MasterMind / Java](https://github.com/Tombiczek/MasterMind-Java)**: A basic version of the MasterMind game, utilizing AWT for the GUI.
 
