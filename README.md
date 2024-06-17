@@ -1,8 +1,6 @@
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
 </div>
-
-## 🚀 About Me
 I'm a Telecommunications student at Warsaw University of Technology, specializing in Teleinformatics. I am passionate about both mobile and web application development. As a member of the Koło Naukowe Aplikacji Mobilnych (KNAM), I am actively engaged in creating innovative mobile apps.
 
 ## 🔧 Technologies & Tools
