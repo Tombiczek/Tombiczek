@@ -1,16 +1,6 @@
-# Hi, Welcome to my GitHub! 👋
-<div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
 </div>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/tomasz-lewinski/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-
-
 ## 🚀 About Me
 I'm a Telecommunications student at Warsaw University of Technology, specializing in Teleinformatics. I am passionate about both mobile and web application development. As a member of the Koło Naukowe Aplikacji Mobilnych (KNAM), I am actively engaged in creating innovative mobile apps.
 
