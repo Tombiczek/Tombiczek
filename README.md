@@ -6,6 +6,9 @@
 
 I'm a Telecommunications student at Warsaw University of Technology, specializing in Teleinformatics. I am passionate about both mobile and web application development. As a member of the Koło Naukowe Aplikacji Mobilnych (KNAM), I am actively engaged in creating innovative mobile apps.
 
+## 🏆 My Latest Achievement
+- **Winner of the 10th edition of the BEST Hacking League Hackathon**: Developed an interplanetary time synchronization solution, connecting the Martian (Darian) and Earth calendars, and enabling cross-planetary event coordination.
+
 ## 🔧 Technologies & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
