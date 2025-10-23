@@ -24,9 +24,3 @@ I'm a Telecommunications student at Warsaw University of Technology, specializin
 
 ## 🌱 I’m currently learning ...
 I am continuously improving my skills in mobile app development, particularly with Swift, and have recently launched my project on the App Store.
-
-## :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tombiczek&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
