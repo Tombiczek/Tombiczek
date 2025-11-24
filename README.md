@@ -4,7 +4,7 @@
 
 ---
 
-I'm a Telecommunications student at Warsaw University of Technology, specializing in Teleinformatics. I am passionate about backend development, AI, and machine learning.
+I'm a ICT student at Warsaw University of Technology, specializing in Teleinformatics. I am passionate about backend development, AI, and machine learning.
 
 ## 🏆 My Latest Achievement
 - **Winner of the 10th edition BEST Hacking League Hackathon**: Developed an interplanetary time synchronization solution, connecting the Martian (Darian) and Earth calendars, and enabling cross-planetary event coordination.
