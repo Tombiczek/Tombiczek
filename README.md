@@ -29,6 +29,8 @@ Currently tinkering with:
 
 ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="32" alt="mario"/> Stack
 
+<img src="assets/stars.gif" align="right" width="200" alt="pixel clouds"/>
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/>
@@ -47,6 +49,8 @@ Currently tinkering with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring" title="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
 </p>
+
+<br clear="right"/>
 
 ---
 
